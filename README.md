@@ -28,8 +28,13 @@
 
  | PRACTIOS | LINKS |
 | ------------- | ------------- |
-| EJERCICIO 01  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 02  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 03  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 04  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 05  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 1. Simulación simple de pila  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 2. Pila de nombres  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 3. Verificar si una pila está vacía   | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 4. Invertir una palabra   | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 5. Balanceo de paréntesis | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 6. Decimal a binario   | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 7. Simular función Deshacer (Undo)  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 8. Evaluar expresión postfija  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| 9. Revertir lista  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+
