@@ -8,11 +8,10 @@
 
  | PRACTIOS | LINKS |
 | ------------- | ------------- |
-| EJERCICIO 01  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 02  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 03  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 04  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
-| EJERCICIO 05  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| Ejercicio 1: Comparación de colas  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| Ejercicio 2: Simulación de supermercado con carritos y cajas  | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+| Ejercicio 3: Simulación de atención al cliente en supermercado | [Ver Codigo](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)|
+
 
 
 [EJERCICIOS PRACTICOS LISTAS](https://github.com/slserna/U2GB-Ejercicios-Pr-cticos/tree/main/EjerciciosPracticos_Act5)
