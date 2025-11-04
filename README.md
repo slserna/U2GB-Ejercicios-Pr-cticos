@@ -1,4 +1,5 @@
 # ESTRUCTURA DE DATOS 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
+## EJERCICIOS PRÁCTICOS 
 ## GTID141
 ### SARA LIZBETH SERNA RODRIGUEZ
 ✧˖° ✧˖° ✧˖° ✧˖°✧˖° ✧˖°✧˖° ✧˖°✧˖° ✧˖°
